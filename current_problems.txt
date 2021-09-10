@@ -1,0 +1,7 @@
+Tanks
+- Tanks can't rotate
+- Tanks can go through walls
+- Tanks can crash into each other
+
+Shooting
+- Max bullets or bullet delay
